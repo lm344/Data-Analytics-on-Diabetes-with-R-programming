@@ -3,10 +3,12 @@
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney
 Diseases. The objective is to predict based on diagnostic measurements whether a patient has
 diabetes.
+
 -> Objective:
 The purpose of this data set mining implementation is to extrapolate the factors triggering diabetes
 from ‘number of times pregnant’ and other attributes. The analysis will also explain which
 variables leads to diabetes.
+
 -> Attributes and Source:
 • Pregnancies: Number of times pregnant
 • Glucose: Plasma glucose concentration a 2 hour in an oral glucose tolerance test
