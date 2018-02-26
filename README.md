@@ -10,14 +10,23 @@ from ‘number of times pregnant’ and other attributes. The analysis will also
 variables leads to diabetes.
 
 -> Attributes and Source:
+
 • Pregnancies: Number of times pregnant
+
 • Glucose: Plasma glucose concentration a 2 hour in an oral glucose tolerance test
+
 • Blood Pressure: Diastolic blood pressure (mm Hg)
+
 • Skin Thickness: Triceps skin fold thickness (mm)
+
 • Insulin: 2-hour Serum insulin (mu U/ml)
+
 • BMI: Body mass index (weight in kg/ (height in m) ^2)
+
 • Diabetes Pedigree Function: Diabetes Pedigree function
+
 • Age: Age in years
+
 • Outcome: Class variable (0 or 1)
 
  -> Source: https://www.kaggle.com/uciml/pima-indians-diabetes-database
